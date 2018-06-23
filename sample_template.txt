@@ -1,8 +1,8 @@
 TO: __email__
 
-Hello __name__,
+Dear __name__,
 
-I am writing you in regard to your job application for the post of assistant manager at xyz pvt ltd. Pleas revert ASAP.
+I am sending you my resume  for the post of Android Developer at Company pvt ltd. Pleas revert ASAP.
 
-Thanks!
+Thank You
 __signature__
